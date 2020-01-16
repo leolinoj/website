@@ -7,7 +7,7 @@ video_id: f9vaiHoq-Fk
 topics:
   - title: "Resolving merge conflicts"
     time: "26:40"
-    video_id: "JtIX3HJKwfo"
+    url: /beginners/git-and-github/9-resolving-merge-conflicts
   - title: "XOR Problem"
     time: "52:51"
     url: "/CodingChallenges/092-xor"
@@ -30,7 +30,7 @@ videos:
   - title: "3Blue1Brown Neural Networks playlist"
     url: "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"
   - title: "Val Head's Guest Tutorial"
-    video_id: "VWfXiSUDquw"
+    url: "/GuestTutorials/003-val-head-spring-animations"
 ---
 
 In this live stream, I go through pull requests on the JavaScript neural network library repo and take another crack at the XOR coding challenge.

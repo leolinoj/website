@@ -3,7 +3,8 @@ title: "XOR Problem with TensorFlow.js"
 video_number: 106
 date: 2018-06-11
 video_id: N3ZnNa01BPM
-repository: /CC_106_xor_tfjs
+repository: CC_106_xor_tfjs
+web_editor: ueNMC_Wh6
 
 links:
   - title: "TensorFlow.js"
@@ -24,6 +25,14 @@ videos:
     video_id: "F4WWukTWoXY"
   - title: "async/await"
     video_id: "XO77Fib9tSI"
+
+contributions:
+  - title: "XOR in python with keras"
+    author:
+      name: "David Snyder"
+      url: "https://github.com/GypsyDangerous"
+    url: "https://github.com/GypsyDangerous/Xor-problem-in-Keras/blob/master/outputs/xor.gif"
+    source: "https://github.com/GypsyDangerous/Xor-problem-in-Keras"
 ---
 
-In this coding challenge, I visualize solving XOR once again, this time with the TensorFlow.js library.
+In this coding challenge, I visualize the outputs of a neural network solving XOR using TensorFlow.js.

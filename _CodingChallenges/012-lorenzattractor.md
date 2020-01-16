@@ -4,8 +4,9 @@ redirect_from: CodingChallenges/12-lorenzattractor.html
 video_number: 12
 date: 2016-05-06
 video_id: f0lkz2gSsIk
-repository: /CC_012_LorenzAttractor
-live_example: /CC_012_LorenzAttractor_p5.js
+repository: CC_012_LorenzAttractor
+web_editor: pwr_7FUUq
+
 links:
   - title: "PeasyCam library"
     url: "http://mrfeinberg.com/peasycam/"
@@ -19,6 +20,14 @@ links:
     url: "https://processing.org/reference/beginShape_.html"
   - title: "What is a differential equation?"
     url: "https://www.myphysicslab.com/explain/what-is-a-diff-eq-en.html"
+
+contributions:
+  - title: "Lorenz attractor with particles"
+    author:
+      name: "Juan Carlos Ponce Campuzano"
+      url: "https://jcponce.github.io/"
+    url: "https://jcponce.github.io/calculus/velfields/Lorenz/"
+    source: "https://github.com/jcponce/calculus/tree/gh-pages/velfields/Lorenz"
 ---
 
 In this coding challenge, I show you how to visualization the Lorenz Attractor in Processing (Java).

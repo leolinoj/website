@@ -4,8 +4,7 @@ redirect_from: CodingChallenges/25-spheregeometry.html
 video_number: 25
 date: 2016-06-29
 video_id: RkuBWEkBrZA
-repository: /CC_025_SphereGeometry
-live_example: false
+repository: CC_025_SphereGeometry
 links:
   - title: "Supershapes (Superformula)"
     url: "http://paulbourke.net/geometry/supershape/"
@@ -21,6 +20,13 @@ links:
 videos:
   - title: "My Video on Polar Coordinates"
     video_id: "znOBmOrtz_M"
+contributions:
+  - title: "Spherical Geometry in WEBGL"
+    author:
+      name: "Carlos"
+      url: "https://www.openprocessing.org/user/142183"
+    url: "https://editor.p5js.org/carlos.henrique2324@gmail.com/full/HyKoU6NzE"
+    source: "https://editor.p5js.org/carlos.henrique2324@gmail.com/sketches/HyKoU6NzE"
 ---
 
 In this coding challenge, I create a sphere in Processing using spherical coordinates and triangle strips. This is the 3rd part of a multi-part series on superformulas, superellipses and supershapes.

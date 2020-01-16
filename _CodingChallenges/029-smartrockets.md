@@ -4,7 +4,9 @@ redirect_from: CodingChallenges/29-smartrockets.html
 video_number: 29
 date: 2016-08-02
 video_id: bGz7mv2vD6g
-repository: /CC_029_SmartRockets
+repository: CC_029_SmartRockets
+web_editor: o5PwECj42
+
 links:
   - title: "Smart Rockets"
     url: "http://www.blprnt.com/smartrockets/"
@@ -22,6 +24,12 @@ contributions:
       name: "Alexander Kraus"
       url: https://github.com/akraus53/
     url: https://github.com/akraus53/SmartRockets
+
+  - title: "Smart Rockets in Logo"
+    author:
+      name: "Sam Lee"
+      url: https://codepen.io/leimapapa
+    url: https://codepen.io/leimapapa/full/QJwjwE
 ---
 
 In this (very long) coding challenge, I implement a genetic algorithm from scratch and create "smart rockets" (based on a simulation by Jer Thorp).  The rockets evolve the "best" path to a target, moving around obstacles.

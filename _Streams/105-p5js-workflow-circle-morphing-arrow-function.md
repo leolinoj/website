@@ -1,16 +1,15 @@
 ---
 title: "p5.js Workflow, Circle Morphing and Arrow Function"
 video_number: 105
-date: 2017-10-27
+date: 2017-10-28
 video_id: ldx_J589fcs
 
 topics:
   - title: "Arrow Function"
     time: "29:31"
     url: "/Tutorials/16-javascript-es6/16.3-arrow-function"
-  - title: "My p5.js workflow"
+  - title: "My p5.js workflow (old version)"
     time: "1:08:52"
-    url: "/Tutorials/1-p5js-basics/1.2-p5js-workflow"
   - title: "Circle Morphing Coding Challenge - Part 1"
     time: "1:55:04"
     url: "/CodingChallenges/081.1-circle-morphing-part-1"
@@ -44,9 +43,9 @@ links:
 
 videos:
   - title: "Golan Levin's Circle Morphing"
-    url: "/GuestTutorials/7-golan-levin-circle-morphing"
+    url: "/GuestTutorials/007-golan-levin-circle-morphing"
   - title: "Golan Levin's Modulo Operator"
-    url: "/GuestTutorials/6-golan-levin-modulo-operator"
+    url: "/GuestTutorials/006-golan-levin-modulo-operator"
   - title: "ES6 Let"
     url: "/Tutorials/16-javascript-es6/16.1-let-vs-var"
   - title: "ES6 Const"

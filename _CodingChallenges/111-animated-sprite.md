@@ -3,7 +3,8 @@ title: "Animated Sprites"
 video_number: 111
 date: 2018-07-30
 video_id: 3noMeuufLZY
-repository: /CC_111_animated_sprite
+repository: CC_111_animated_sprite
+web_editor: vhnFx1mml
 
 links:
   - title: "Horse Sprite Sheet"
@@ -13,8 +14,13 @@ links:
 
 videos:
   - title: "Guest Tutorial #6: The Modulo Operator with Golan Levin"
-    url: "/GuestTutorials/6-golan-levin-modulo-operator"
+    url: "/GuestTutorials/006-golan-levin-modulo-operator"
+
+contributions:
+  - title: "Where Should I Stand?"
+    author:
+      name: "Jamie McCrory"
+    url: "https://where-should-i-stand.herokuapp.com"
+    source: "https://github.com/jamiejamiebobamie/whereStand"
 ---
-
 In this coding challenge, I load a sprite sheet and create multiple animated sprites with the p5.js library.
-

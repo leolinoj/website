@@ -1,10 +1,10 @@
 ---
 title: "Bubble Sort Visualization"
 video_number: 114
-date: 2018-08-22
+date: 2018-08-27
 video_id: 67k3I2GxTH8
-repository: /CC_114_BubbleSortViz
-live_example: false
+repository: CC_114_BubbleSortViz
+web_editor: 3HVrL9m36
 
 links:
   - title: "Visualizing Algorithms"
@@ -26,6 +26,32 @@ contributions:
       name: "Tslytsly"
       url: "https://github.com/tslytsly"
     url: "https://tslytsly.github.io/SortingAlgorithms/"
+  - title: "Bubble Sort Visualization in p5.js using Generators + Timer"
+    author:
+      name: "FirstProphet"
+      url: "https://github.com/FirstProphet"
+    url: "https://editor.p5js.org/FirstProphet/sketches/H1qLbFSFQ"
+  - title: "Sketch Algorithms Bubble Sort"
+    author:
+      name: "Subesh Bhandari"
+      url: "https://github.com/subeshb1"
+    url: "https://www.sketchalgorithms.com/sorting/bubble-sort"
+  - title: "Rainbow Bubble Sort"
+    author:
+      name: "The_Coder"
+      url: "https://github.com/Craiky"
+    url: "https://craiky.github.io/Bubblesort/"
+  - title: "The p5 version of this challenge"
+    author:
+      name: "Mogens Meißner"
+      url: "http://mogensmeissner.tk"
+    source: "https://github.com/MogiMei/VisualizeBubbleSort/blob/master/sketch.js"
+  - title: "Sorting Algorithm Visualizations"
+    author:
+      name: "khoi"
+      url: "https://github.com/khoi"
+    url: "https://sort.khoi.io"
+    source: "https://github.com/khoi/p5-projects/tree/master/sorting"
 ---
 
-In this coding challenge, I implement a "bubble sort" algorithm in Processing(Java) and sort randomly generated lines. [#SortingTrain](https://twitter.com/hashtag/SortingTrain)
+In this coding challenge, I implement a "bubble sort" algorithm in Processing (Java) and sort randomly generated lines. [#SortingTrain](https://twitter.com/hashtag/SortingTrain)

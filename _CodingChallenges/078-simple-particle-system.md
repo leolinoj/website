@@ -4,11 +4,14 @@ redirect_from: CodingChallenges/78-simple-particle-system.html
 video_number: 78
 date: 2017-10-11
 video_id: UcdigVaIYAk
-repository: /CC_078_Simple_Particle_System
+repository: CC_078_Simple_Particle_System
+web_editor: D4ty3DgZB
 
 links:
   - title: "Particle System on Wikipedia"
     url: "https://en.wikipedia.org/wiki/Particle_system"
+  - title: "#ParticleTrain on Twitter"
+    url: https://twitter.com/hashtag/particletrain
 
 videos:
   - title: "Fireworks Coding Challenge"
@@ -79,6 +82,20 @@ contributions:
       url: https://www.openprocessing.org/user/102359
     url: https://www.openprocessing.org/sketch/460769
     source: https://www.openprocessing.org/sketch/460769
+
+  - title: "Realistic ParticleSystem"
+    author:
+      name: "Anurag Hazra"
+      url: http://anuraghazra.github.io
+    url: https://anuraghazra.github.io/CanvasFun/particleSystem/
+    source: https://github.com/anuraghazra/CanvasFun/tree/master/particleSystem
+
+  - title: "Color Smoke"
+    author:
+      name: "Yalçıncan Ulus"
+      url: https://www.openprocessing.org/user/98765
+    url: https://www.openprocessing.org/sketch/459864
+    source: https://www.openprocessing.org/sketch/459864
 ---
 
 In this coding challenge, I explore the concept of a simple particle system and attempt to create a smoke effect with the p5.js library.
